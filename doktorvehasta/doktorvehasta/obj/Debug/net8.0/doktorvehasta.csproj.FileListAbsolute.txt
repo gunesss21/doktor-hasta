@@ -1,0 +1,14 @@
+/Users/svage/RiderProjects/doktorvehasta/doktorvehasta/bin/Debug/net8.0/doktorvehasta
+/Users/svage/RiderProjects/doktorvehasta/doktorvehasta/bin/Debug/net8.0/doktorvehasta.deps.json
+/Users/svage/RiderProjects/doktorvehasta/doktorvehasta/bin/Debug/net8.0/doktorvehasta.runtimeconfig.json
+/Users/svage/RiderProjects/doktorvehasta/doktorvehasta/bin/Debug/net8.0/doktorvehasta.dll
+/Users/svage/RiderProjects/doktorvehasta/doktorvehasta/bin/Debug/net8.0/doktorvehasta.pdb
+/Users/svage/RiderProjects/doktorvehasta/doktorvehasta/obj/Debug/net8.0/doktorvehasta.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svage/RiderProjects/doktorvehasta/doktorvehasta/obj/Debug/net8.0/doktorvehasta.AssemblyInfoInputs.cache
+/Users/svage/RiderProjects/doktorvehasta/doktorvehasta/obj/Debug/net8.0/doktorvehasta.AssemblyInfo.cs
+/Users/svage/RiderProjects/doktorvehasta/doktorvehasta/obj/Debug/net8.0/doktorvehasta.csproj.CoreCompileInputs.cache
+/Users/svage/RiderProjects/doktorvehasta/doktorvehasta/obj/Debug/net8.0/doktorvehasta.dll
+/Users/svage/RiderProjects/doktorvehasta/doktorvehasta/obj/Debug/net8.0/refint/doktorvehasta.dll
+/Users/svage/RiderProjects/doktorvehasta/doktorvehasta/obj/Debug/net8.0/doktorvehasta.pdb
+/Users/svage/RiderProjects/doktorvehasta/doktorvehasta/obj/Debug/net8.0/doktorvehasta.genruntimeconfig.cache
+/Users/svage/RiderProjects/doktorvehasta/doktorvehasta/obj/Debug/net8.0/ref/doktorvehasta.dll
